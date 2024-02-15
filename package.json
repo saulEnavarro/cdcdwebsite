@@ -1,0 +1,16 @@
+{
+  "name": "snpalacetest",
+  "version": "1.0.0",
+  "description": "Website de prueba",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "saul",
+  "license": "ISC"
+}
